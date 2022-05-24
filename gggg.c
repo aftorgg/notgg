@@ -5,11 +5,8 @@ int main(int argc, char const *argv[])
 {
 	int a;
 	printf("Flexagon(1,2,3,4 - slides)\n");
-<<<<<<< HEAD
-    while(1) {
-=======
->>>>>>> 7d467da540c0d173d0970e1f52de5a7aaa31f707
-     scanf("%d", &a);
+        while(1) {
+          scanf("%d", &a);
     switch(a) {
     case 1:
         printf("In geometry, flexagons are flat models, usually constructed by folding strips of paper, that can be flexed or folded in certain ways to reveal faces besides the two that were originally on the back and front.\n");
@@ -32,8 +29,6 @@ int main(int argc, char const *argv[])
 	
 
     return 0;
-<<<<<<< HEAD
+ 
 }
-=======
-}
->>>>>>> 7d467da540c0d173d0970e1f52de5a7aaa31f707
+ 
