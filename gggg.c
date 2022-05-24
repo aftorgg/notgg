@@ -8,7 +8,6 @@ int main(int argc, char const *argv[])
 <<<<<<< HEAD
     while(1) {
 =======
-    while(a<=4) {
 >>>>>>> 7d467da540c0d173d0970e1f52de5a7aaa31f707
      scanf("%d", &a);
     switch(a) {
