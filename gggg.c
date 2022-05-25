@@ -19,7 +19,7 @@ int main(int argc, char const *argv[])
         break;
     case 4:
         printf("Two flexagons are equivalent if one can be transformed to the other by a series of pinches and rotations. Flexagon equivalence is an equivalence relation.\n"); 
-        printf("Press any button...\n");
+        printf("thanks for listen\n");
         break;
     default:
         printf("thanks for listen\n");
